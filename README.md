@@ -1,2 +1,6 @@
-# tuya-residence-android-config-values
-Tuya Residence Android Config Values
+# Config files of Tuya Smart Residence UI Bizbundle for Android
+
+Contains the configuration files and language settings.
+
+- Configuration files: theme configuration, app configuration, settings, and more.
+- Language setting: Arabic, Chinese, English, Japanese, and more.
